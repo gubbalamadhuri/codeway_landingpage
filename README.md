@@ -1,1 +1,1 @@
-# codeway_landingpage
+# capstone-project
